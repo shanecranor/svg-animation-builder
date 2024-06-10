@@ -17,3 +17,11 @@
   <rect x="0" y="0" width="100%" height="100%" fill="url(#svg-stripes-pattern-30257)"/>
   <rect x="0" y="0" width="100%" height="100%" fill="url(#svg-stripes-pattern-30256)"/>
 </svg>
+
+
+<svg id="stripes-svg" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <defs>
+  {{patterns}}
+  </defs>
+ {{instances}}
+</svg>
